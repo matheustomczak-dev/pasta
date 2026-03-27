@@ -5,3 +5,25 @@ background-color: aqua;
 width: 200px;
 height: 200px;
 }
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+#contador {
+    font-size: 80px;
+    margin: 20px 0;
+}
+
+.flex  {
+
+display: inline flow-root;
+
+}
+
